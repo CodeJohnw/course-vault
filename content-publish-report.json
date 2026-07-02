@@ -1,0 +1,599 @@
+{
+  "source": "/Users/johnwong/Library/CloudStorage/坚果云-junxw1102@163.com/Work Documents/Obsidian Hub/课程知识库",
+  "target": "/Users/johnwong/Documents/Codex/quartz-course-site/content-publish",
+  "generated_at": "2026-07-02 07:58:09",
+  "elapsed_seconds": 113.22,
+  "considered": 479,
+  "copied": 332,
+  "skipped": 147,
+  "skipped_items": [
+    {
+      "path": "交通工程/交通建模与数据分析/Newcastle University CEG8419 Transport Modelling and Forecasting/Newcastle University CEG8419 Transport Modelling and Forecasting.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/交通建模与数据分析/University of Leeds TRAN5032M Transport Data Collection and Analysis/University of Leeds TRAN5032M Transport Data Collection and Analysis.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/交通建模与数据分析/University of Leeds TRAN5191M System Dynamics Modelling Policy/University of Leeds TRAN5191M System Dynamics Modelling Policy.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/交通建模与数据分析/University of Leeds TRAN5013 Understanding Travel Behaviour/University of Leeds TRAN5013 Understanding Travel Behaviour.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/交通建模与数据分析/The Hong Kong University of Science and Technology CIEM5620 Traffic Demand Analysis/The Hong Kong University of Science and Technology CIEM5620 Traffic Demand Analysis.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/HKUST EEE2003 Traffic Engineering/HKUST EEE2003 Traffic Engineering.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/Monash University CIV2282 Transport and Traffic Engineering/Monash University CIV2282 Transport and Traffic Engineering.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/交通规划/Newcastle CEG8422 Intelligent Transport Systems/Newcastle CEG8422 Intelligent Transport Systems.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/交通规划/The Hong Kong Polytechnic University CSE516 Urban Transport Planning - Theory and Practice/The Hong Kong Polytechnic University CSE516 Urban Transport Planning - Theory and Practice.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/交通规划/University of Leeds TRAN5020M Principles of Transport Modelling/University of Leeds TRAN5020M Principles of Transport Modelling.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/交通规划/Newcastle-CEG8421-Traffic Flow and Control/Newcastle-CEG8421-Traffic Flow and Control.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/交通规划/Newcastle CEG8427 Behavioural Models for Individual Choices/Newcastle CEG8427 Behavioural Models for Individual Choices.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/交通规划/Newcastle CEG8423 Transport Research Methods/Newcastle CEG8423 Transport Research Methods.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/Hong Kong Polytechnic University EEE2003 Traffic Engineering/Hong Kong Polytechnic University EEE2003 Traffic Engineering.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/专题资料/Imperial College London CIVE70015 Traffic Flow Theory Reference Pack/Imperial College London CIVE70015 Traffic Flow Theory Reference Pack.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/专题资料/Bottleneck Road User Behaviour and Tolling Case/Bottleneck Road User Behaviour and Tolling Case.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/Florida International University ACES 自动驾驶车辆与ACES场景规划/Florida International University ACES 自动驾驶车辆与ACES场景规划.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/交通经济学/University of Leeds TRAN5911M Transport Dissertation - Rail Demand Econometrics/University of Leeds TRAN5911M Transport Dissertation - Rail Demand Econometrics.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/案例库/London ULEZ Emissions Dataset Case/London ULEZ Emissions Dataset Case.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通安全与韧性/Transport Security.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通安全与韧性/Road Safety Management.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通安全与韧性/Crash Statistics.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通安全与韧性/Young Drivers.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通安全与韧性/Capacity and Headway.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通安全与韧性/Intelligent Speed Assistance.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通安全与韧性/Education Training Publicity.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通安全与韧性/Safe System Approach.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通安全与韧性/Time-Distance Graph.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通安全与韧性/GNSS Dependency.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通安全与韧性/Critical Infrastructure Resilience.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通安全与韧性/Dynamic Speed Limits.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通经济学与需求模型/Panel Data Fixed Effects.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通经济学与需求模型/Transport Data Confidentiality.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通经济学与需求模型/Transport Econometrics.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通经济学与需求模型/Furness Method.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通经济学与需求模型/OD Matrix.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通经济学与需求模型/Rail Demand Modelling.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通经济学与需求模型/Fare Elasticity.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/Trip Generation.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/Travel Behaviour.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/Derived Demand.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/Theory of Planned Behaviour.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/Survey Design.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/冲击波理论.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/交通数据采集.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/Cluster Analysis.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/Time Geography.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/交通规划.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/TOD（以公交为导向的开发）.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/Random Utility Model.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/四阶段法.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/SCOOT.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/GIS空间分析.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/Human Factors for ITS.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/Mobilities.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/Factor Analysis.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/Modal Split.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/路径分配.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/ITS.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/ETCS.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/Stock Flow Model.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/Data Quality.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/Railway Operations.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/Traffic Impact Assessment.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/交通流基本图.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/Hypothesis Testing.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/Causal Loop Diagram.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/Principal Component Analysis.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/离散选择模型.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/LinSig.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/土地利用-交通互动.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/Traffic Assignment.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/Biogeme.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/Travel Demand Analysis.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/交通建模.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/路口设计.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/Railway Planning.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/Vehicle Automation Assessment.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/Multinomial Logit.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/Transport Research Methods.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/Automatic Train Operation.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/TRANSYT.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/Regression.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/Disaggregate Demand Models.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/Value of Travel Time Savings.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/交通项目经济评价.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/Vensim.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/可持续交通规划.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/交通信号控制.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/Willingness to Pay.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/交叉口类型.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/CUBE交通建模.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/Transport Policy Impact Analysis.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/交通流基本变量.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/交通环境影响评估.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/User Benefit.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/C-ITS.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/Transport Data Collection.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/可达性（Accessibility）.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/Confidence Interval.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/Binary Logit.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/项目评价 Appraisal.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/Discrete Choice Models.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/System Dynamics.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/5Ds（建成环境五维度）.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/Trip Distribution.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/排队论.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/Railway Signalling.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/Wardrop Equilibrium.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/Alternative Fuel Vehicles.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/Maximum Likelihood Estimation.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/知识点/交通规划与模型/Bottleneck Model.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/交通安全/Imperial College London SST7 Critical Infrastructure and Transport Security/Imperial College London SST7 Critical Infrastructure and Transport Security.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/交通安全/University of Leeds TRAN5210M Traffic Management and Intelligent Speed Assistance/University of Leeds TRAN5210M Traffic Management and Intelligent Speed Assistance.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/索引/学校与专业/CIVE70016.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/索引/学校与专业/CEG8419.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/索引/学校与专业/TRAN5210M.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/索引/学校与专业/交通建模与数据分析.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/索引/学校与专业/Newcastle University.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/索引/学校与专业/TRAN5762M.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/索引/学校与专业/交通经济学.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/索引/学校与专业/EEE2003.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/索引/学校与专业/CEG8423.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/索引/学校与专业/Monash University.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/索引/学校与专业/TRAN5013.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/索引/学校与专业/CEG8427.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/索引/学校与专业/The Hong Kong University of Science and Technology.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/索引/学校与专业/HKUST.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/索引/学校与专业/Hong Kong Polytechnic University.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/索引/学校与专业/CEG8422.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/索引/学校与专业/交通安全.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/索引/学校与专业/ACES.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/索引/学校与专业/CEG8421.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/索引/学校与专业/CIVE2550.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/索引/学校与专业/CEE4604.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/索引/学校与专业/TRAN5911M.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/索引/学校与专业/Virginia Tech.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/索引/学校与专业/CSE516.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/索引/学校与专业/TRAN5020M.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/索引/学校与专业/Florida International University.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/索引/学校与专业/TRAN5032M.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/索引/学校与专业/TRAN5191M.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/索引/学校与专业/CIVE70015.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/索引/学校与专业/RMC.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/索引/学校与专业/CIEM5620.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/索引/学校与专业/SST7.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    },
+    {
+      "path": "交通工程/Virginia Tech CEE4604 Traffic Engineering/Virginia Tech CEE4604 Traffic Engineering.md",
+      "reason": "TimeoutError: [Errno 60] Operation timed out"
+    }
+  ]
+}

@@ -2,6 +2,8 @@
 .gitignore
 node_modules
 public
+.npm-cache
+content
 prof
 tsconfig.tsbuildinfo
 .obsidian
